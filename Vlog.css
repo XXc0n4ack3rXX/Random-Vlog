@@ -1,0 +1,13 @@
+#title{
+	border-radius:5px;
+	border:4px solid purple;
+	width:425px;
+	height:75px;
+	font-style:Georgia;
+	font-size:53px;
+	text-align:center;
+	margin-left:425px;
+	margin-top:10px;
+	background:-webkit-linear-gradient(left,green,blue,red,yellow,orange);
+	box-shadow:rgba(2,2,2,0.9) 6px 6px 8px;
+}
